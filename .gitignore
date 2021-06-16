@@ -1,0 +1,15 @@
+config.prod.yaml
+config.preprod.yaml
+config.staging.yaml
+config.yaml
+config.none.yaml
+/data/
+/mongo_data/
+tmp
+keys
+
+# Goland template
+.idea
+
+# Mac file
+.DS_Store
